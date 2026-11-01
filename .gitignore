@@ -1,5 +1,6 @@
 # Next.js build output
 .next/
+out/
 
 # TypeScript build output
 node_modules/
